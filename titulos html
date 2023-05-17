@@ -1,17 +1,19 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-br">   
     <head>
         <meta CHARSET="UTF-8"/>
         <title>Games</title>
+         <link rel="stylesheet" type="text/css"href="css titulo">
     </head>
     <body>
         <h1>Jogos</h1>
         <h2>Games eletronicos</h2>
-    <p>O jogo eletrônico, videojogo ou videogame é aquele que usa a tecnologia de computador. <br>
-        Ele pode ser jogado em computadores pessoais (dentre eles tablets e telefones celulares), em máquinas de fliperama ou em consoles.</p>
+          <img src="imagem1.jpeg">
+    <p>O jogo eletrônico,Ele pode ser jogado em computadores pessoais (dentre eles tablets e telefones celulares), em máquinas de fliperama ou em consoles.</p>
     <p>existem varios jogos no mundo todo.Assim como no Brasil, CS:GO, League Of Legends, Dota 2 e Rainbow Six, figuram entre os jogos mais jogados no mundo. <br>
          Além destes, estão os Battle Royale PUBG Mobile (PlayerUnknown's Battlegrounds) e Apex Legends, que se assemelham ao Fortnite e ao Free Fire, duas febres no Brasil</p>
        <h1>Jogos da atualidade</h1>
+       <img src="imagem2.jpeg">
     <p>Minecraft,League of Legends,Fortnite,PlayerUnknown's Battlegrounds (PUBG),Counter-Strike: Global Offensive, ou CS:GO.<br>
     Assim como no Brasil, CS:GO, League Of Legends, Dota 2 e Rainbow Six, figuram entre os jogos mais jogados no mundo.<br>
      Além destes, estão os Battle Royale PUBG Mobile (PlayerUnknown's Battlegrounds) e Apex Legends, que se assemelham ao Fortnite e ao Free Fire, duas febres no Brasil</p>
@@ -19,19 +21,35 @@
          <h5>Minecraft</h5>
     <p>Minecraft é um jogo eletrônico lançado em 2009 que consiste em sobreviver em um mundo formado (majoritariamente) por blocos cúbicos.<br>
          Steve, o personagem controlado pelo jogador, inicia o jogo em um ambiente repleto de árvores, montanhas, rios.</p>
+         <p>aqui você podera seguir uma bela obra dese jogo</p>
+         <a href="https://www.youtube.com/watch?v=aWzKb071D9o&pp=ygUQdmluaWNjaXVzMTMgZXAgMQ%3D%3D">clique aqui</a>
          <h5>league of legends</h5>
     <p>League of Legends é um jogo de estratégia em que duas equipes de cinco poderosos Campeões se enfrentam para destruir a base uma da outra.<br>
          Escolha entre mais de 140 Campeões para realizar jogadas épicas, assegurar abates e destruir torres conforme você luta até a vitória.</p>
+         <P>aqui ha uma bela obra desse jogo</P>
+         <a href="https://www.youtube.com/watch?v=SjdULANz4Jc&pp=ygUXbGVhZ3VlIG9mIGxlZ2VuZHMgYWxhbiA%3D">clique aqui</a>
          <h5>fortnite</h5>
     <p>Fortnite é um famoso jogo de tiro do tipo Battle Royale, ou seja, todos contra todos onde o último sobrevivente é o vencedor.<br>
              O game tem versões para PC, PS4, Xbox One, Nintendo Switch, iOS e Android.<br>
              Assim, como outros títulos do gênero, é necessário dominar uma série de estratégias para ficar vivo por mais tempo.</p> 
+             <p>aqui ha outra bela obra</p>
+             <a href="https://www.youtube.com/watch?v=0rCZ4hHA3Fs&list=PLmyqOryVcDwABNXyrCjoS6QRfsyN0TTOe">clique aqui</a>
          <h5>PlayerUnknown's Battlegrounds</h5>
     <p>PUBG é um jogo no estilo Battle Royale, produzido pela coreana Bluehole e lançado em 2017.<br>
              O jogo tem até 100 participantes simultâneos, onde todos vão de avião até um área de salto, localizada em uma ilha não habitada.<br>
              Os participantes devem saltar com seus paraquedas, invadir as construções em busca de itens e armamentos, eliminar os adversários e se deslocar até a “área final”, <br>
              localizada em pontos diferentes durante as partidas.</p>
+             <p>esta é outra bela obra de mais um belo jogo</p>
+             <a href="https://www.youtube.com/watch?v=ZifFl7Lui9s&pp=ygUKcHViZyBhbGFuIA%3D%3D">clique aqui</a>
           <h5>Counter-Strike</h5>
     <p>Counter-Strike (também abreviado por CS) é um popular jogo eletrônico de tiro em primeira pessoa.<br>
             [2] Inicialmente criado como um "mod" de Half-Life para jogos online, foi desenvolvido por Minh Le e Jess Cliffe </p>
-    </body>
+            <p>como ja sabe aqui tem outra bela obra</p>
+            <a href="https://www.youtube.com/watch?v=cHzlZRpw_6U&pp=ygURYWxhbiBqb2dhbmRvIGNzIDE%3D">clique aqui</a>
+             <br><br>
+         
+            <p>temos muitos mais exemplos de jogos</p>
+           
+           <p>aqui esta um site muito bom para praprocurar por eles </p> 
+             <a href="https://www.google.com/search?q=jogos+incr%C3%ADveis+&ei=BalbZK-pNfXM1sQPoY6E2Ak&ved=0ahUKEwjvv9f--er-AhV1ppUCHSEHAZsQ4dUDCA8&uact=5&oq=jogos+incr%C3%ADveis+&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQgAQyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMggIABAWEB4QDzoKCAAQRxDWBBCwAzoLCAAQFhAeEPEEEApKBAhBGABQ9AVYuhRgkhxoAXABeACAAcgBiAGODJIBBjAuMTEuMZgBAKABAcgBCMABAQ&sclient=gws-wiz-serp#:~:text=navega%C3%A7%C3%A3o%20de%20conte%C3%BAdo-,Jogos,-Minecraft">clique aqui.</a>  
+          </body>

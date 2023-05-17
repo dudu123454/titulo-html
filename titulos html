@@ -6,6 +6,7 @@
          <link rel="stylesheet" type="text/css"href="css titulo">
     </head>
     <body>
+     <a href="minhalista.html">minha lista</a>
         <h1>Jogos</h1>
         <h2>Games eletronicos</h2>
           <img src="imagem1.jpeg">
